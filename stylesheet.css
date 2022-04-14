@@ -188,18 +188,24 @@ span.menu-icon {
 }
 
 /*footer*/
-footer img {
-  width: 125px;
+.footer {
+  background-color: #2f5167;
+  color:#fff;
+  height: 120px;
+  padding-top: 20px;
 }
 
-footer p {
-  color: #b3aeb5;
-  font-size: 12px;
+.footer-logo{
+  font-size:20px;
+  float:left;
 }
 
-footer {
-  padding-top: 30px;
-  padding-bottom: 20px;
+.footer-list{
+  float:right;
+}
+
+li {
+  list-style: none;
 }
 
 /*animasi*/
