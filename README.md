@@ -5,3 +5,10 @@ Anggota:
 - anggota 3
 - Jeni Abdulrokhim
 - anggota 5
+
+Tugas:
+1. header -> Jeni Abdulrokhim
+2. main
+3. body
+4. footer
+5. animasi
