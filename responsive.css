@@ -42,7 +42,7 @@
   }
   
   /* Add CSS for menu-icon */
-  .menu-icon{
+  span .menu-icon{
     display:block;
   }
   
