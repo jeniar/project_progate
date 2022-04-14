@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6, p, div {
 }
 
 body {
-  font-family: "Lucida Grande";
+  font-family: "Roboto",sans-serif;
 }
 
 a {
@@ -33,19 +33,22 @@ a {
   margin-right: 5px;
 }
 
+/*header*/
+
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(34, 49, 52, 0.9);
+  background-color: rgba(9, 132, 227,0.7);
   position :fixed;
   top: 0;
   z-index: 10;
 }
 
-/* .logo {
+ .logo {
   width: 124px;
   margin-top: 20px;
-} */
+  color: white;
+} 
 
 .header-left {
   float: left;
@@ -75,4 +78,143 @@ span.menu-icon {
     font-size: 25px;
     padding: 21px 0;
     display: none;
+}
+
+/*main*/
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(bg.jpg);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+.top-wrapper h1 {
+  opacity: 0.7;
+  font-size: 45px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.top-wrapper p {
+  opacity: 0.7;
+  margin-bottom: 3px;
+}
+
+.btn-wrapper {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.btn-wrapper p {
+  margin: 10px 0;
+}
+
+.signup {
+  background-color: #239b76;
+}
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.twitter {
+  background-color: #55acee;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+/*body*/
+.lesson-wrapper {
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.heading {
+  padding-top: 80px;
+  padding-bottom: 50px;
+  color: #5f5d60;
+}
+
+.heading h2 {
+  font-weight: normal;
+}
+
+.lesson {
+  float: left;
+  width: 25%;
+}
+
+.lesson-icon {
+  position: relative;
+}
+
+.lesson-icon p {
+  position: absolute;
+  top: 44%;
+  width: 100%;
+  color: white;
+}
+
+.text-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 15px;
+  color: #b3aeb5;
+}
+
+.heading h3 {
+  font-weight: normal;
+}
+
+/*footer*/
+footer img {
+  width: 125px;
+}
+
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+footer {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+/*animasi*/
+.animasi img{
+  width: 125px;
+  position: relative;
+  animation-name: jalan;
+  animation-duration: 8s;
+  animation-iteration-count: 3;
+}
+
+@keyframes jalan {
+  0%   {left:0%; top:0px;}
+  25%  {left:25%; top:0px;}
+  50%  {left:50%; top:0px;}
+  75%  {left:75%; top:0px;}
+  100% {left:100%; top:0px;}
 }
