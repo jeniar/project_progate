@@ -11,4 +11,4 @@ Tugas:
 2. main -> Muhammad Miftahus Surur
 3. body
 4. footer
-5. animasi
+5. animasi -> Septian Panjaya
