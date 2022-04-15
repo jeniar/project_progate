@@ -24,12 +24,13 @@
   .top-wrapper h1 {
     font-size: 24px;
     line-height: 36px;
-    text-align: left;
+    text-align: center;
   }
+
   .top-wrapper p{
     font-size: 14px;
     line-height:20px;
-    text-align:left;
+    text-align:center;
   }
   .btn-wrapper{
     text-align:center;
@@ -38,11 +39,9 @@
     text-align:center;
   }
   .btn{
-    width:100%;
+    width:50%;
   }
-  .facebook{
-    margin-bottom:10px;
-  }
+
   .lesson{
     width:100%;
     margin-bottom:50px;
