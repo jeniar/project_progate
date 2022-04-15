@@ -1,7 +1,7 @@
 # project_progate kelompok A22
 Anggota:
 - anggota 1
-- anggota 2
+- Zulfa Kholila
 - Muhammad Miftahus Surur
 - Jeni Abdulrokhim
 - Septian Panjaya
