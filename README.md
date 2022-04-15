@@ -4,7 +4,7 @@ Anggota:
 - anggota 2
 - Muhammad Miftahus Surur
 - Jeni Abdulrokhim
-- anggota 5
+- Septian Panjaya
 
 Tugas:
 1. header -> Jeni Abdulrokhim
