@@ -212,9 +212,8 @@ li {
 .animasi img{
   width: 125px;
   position: relative;
-  animation-name: jalan;
-  animation-duration: 8s;
   animation-iteration-count: 3;
+  animation: jalan 8s linear infinite;
 }
 
 @keyframes jalan{
