@@ -162,6 +162,14 @@ span.menu-icon {
 .lesson {
   float: left;
   width: 25%;
+  transition: 0.5s ease;
+  cursor: pointer;
+}
+
+.lesson:hover {
+  transform: scale(1.2);
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+  border-radius: 25px;
 }
 
 .lesson-icon {
