@@ -1,6 +1,6 @@
 # project_progate kelompok A22
 Anggota:
-- anggota 1
+- Dody Setiawan
 - Zulfa Kholila
 - Muhammad Miftahus Surur
 - Jeni Abdulrokhim
@@ -9,6 +9,6 @@ Anggota:
 Tugas:
 1. header -> Jeni Abdulrokhim
 2. main -> Muhammad Miftahus Surur
-3. body
-4. footer
+3. body -> Dody Setiawan
+4. footer -> Zulfa Kholila
 5. animasi -> Septian Panjaya
